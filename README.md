@@ -9,7 +9,7 @@ git clone https://github.com/UnseenDamage/kodluyoruzilkrepo.git
  ` ` `
 
 ## Images
-![31]()
+![](/manuel-cosentino-n--CMLApjfI-unsplash.jpg)
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
